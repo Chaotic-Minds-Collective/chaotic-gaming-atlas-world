@@ -1,4 +1,4 @@
-# CG World — Implementation Plan
+# CMG World — Implementation Plan
 
 ## Purpose
 World/grid policy management for configurable gameplay rules.
